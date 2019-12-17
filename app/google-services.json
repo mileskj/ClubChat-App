@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1010380505890",
+    "firebase_url": "https://finalmobile-776cd.firebaseio.com",
+    "project_id": "finalmobile-776cd",
+    "storage_bucket": "finalmobile-776cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010380505890:android:ecd7117622b10fa6ebdb7b",
+        "android_client_info": {
+          "package_name": "edu.uga.cs.textapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010380505890-tgrt1dtc4doeqa7177eupphslf6o1m1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.uga.cs.textapp",
+            "certificate_hash": "dcf4b2f4b93834906e3d72acd66e6cb89ea65488"
+          }
+        },
+        {
+          "client_id": "1010380505890-a8ubs22eq59qvrn9ekkege1qslvn7rli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.uga.cs.textapp",
+            "certificate_hash": "928e20e9eb0cc11a3191f595e5fcf1520ea9d7e7"
+          }
+        },
+        {
+          "client_id": "1010380505890-o3o8ogk89pa3in2v8jll1efl75gm1pah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChudMgiwtHpylEWz9AXcQJqhnsOM_5hOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010380505890-o3o8ogk89pa3in2v8jll1efl75gm1pah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
